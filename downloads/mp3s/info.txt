@@ -1,0 +1,2 @@
+This folder exists as a repository for all mp3s that you download. 
+After you run the program you'll find your download here
