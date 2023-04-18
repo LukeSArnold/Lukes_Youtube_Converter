@@ -1,7 +1,8 @@
 Lukes Youtube Converter
 ======================================
 
-##overview
+overview
+---------------------------
 
 *lukes youtube converter is a command line program designed to provide ease of use
 while downloading youtube videos
