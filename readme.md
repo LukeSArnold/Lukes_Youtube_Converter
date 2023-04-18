@@ -1,6 +1,7 @@
 Lukes Youtube Converter
 ======================================
-#overview
+
+##overview
 
 *lukes youtube converter is a command line program designed to provide ease of use
 while downloading youtube videos
@@ -15,7 +16,7 @@ Visit the link to install Ffmpeg, to downlaod Pytube simply run "pip install pyt
 
 --------------------------------------
 
-#use
+##use
 
 *lukes youtube converter defaults to mp3 conversion, in order to convert a youtube video to another format
 simply pass in the file extension as the only argument while in the command line.
